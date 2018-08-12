@@ -1,0 +1,6 @@
+{
+    "name": "welcome-world",
+    "dependencies": {
+        "angular": "latest"
+    }
+}
